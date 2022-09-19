@@ -1,0 +1,75 @@
+*{
+    box-sizing: border-box;
+    
+}
+
+
+.d {
+    text-align: center;
+    
+    border-radius: 5px;
+    
+}
+
+h1{
+    text-align: center;
+    font-size: 50px;
+    padding: 100px;
+    background-color: #444;
+    color: rgba(253, 143, 0, 0.259);
+}
+
+h3{
+    text-align: center;
+    padding: 50px 1px 1px 1px;
+
+}
+
+p{
+    text-align: center;
+    padding: 50px 1px 1px 1px;
+}
+
+img{
+
+    border: 5px solid black;
+    border-radius: 9px;
+}
+
+body{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: rgba(138, 212, 209, 0.188);
+    
+}
+
+
+a:hover{
+    color: aqua;
+}
+
+
+footer {
+    padding: 50px;
+    background-color: #444;
+    
+}
+
+a{
+    text-decoration: none;
+}
+
+nav{
+    padding: 0px 0px 20px 0px;
+}
+
+
+.j{
+    padding-top: 65px;
+}
+
+
+h4{
+    padding-top: 50px;
+}
+
